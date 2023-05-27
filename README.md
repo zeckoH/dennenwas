@@ -19,5 +19,5 @@ Insert the .sql file in your database. Drag and drop this resource in your ESX f
 
 **Config.CountingTime** defines waiting time for counting in seconds
 
-Creator of the script: https://github.com/arnevdaele
+Creator of the script: https://github.com/arnevdaele<br>
 ^ All credits go to him, I just translated it to Dutch.
