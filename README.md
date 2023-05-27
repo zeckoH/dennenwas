@@ -13,11 +13,11 @@ Insert the .sql file in your database. Drag and drop this resource in your ESX f
 
 # CONFIGURATION OPTIONS
 
-Config.WaitingTime defines waiting time for progressbars in MS
+**Config.WaitingTime** defines waiting time for progressbars in MS
 
-Config.ProducingTime defines waiting time for producing in seconds
+**Config.ProducingTime** defines waiting time for producing in seconds
 
-Config.CountingTime defines waiting time for counting in seconds
+**Config.CountingTime** defines waiting time for counting in seconds
 
 Creator of the script: https://github.com/arnevdaele
 ^ All credits go to him, I just translated it to Dutch.
