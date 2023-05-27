@@ -1,11 +1,11 @@
 # Money laundering script translated in Dutch
-  > Player has to enter an teleporter 
+  > Player has to enter an teleporter <br>
   > Takes a whole process to launder the money.  
   
 Preview: https://streamable.com/w83ogt
 
 # REQUIREMENTS / DEPENDENCIES
--> es_extended (legacy) -> https://github.com/esx-framework/es_extended/tree/v1-final
+-> es_extended (legacy) -> https://github.com/esx-framework/es_extended/tree/v1-final <br>
 -> progressBars -> https://forum.cfx.re/t/release-progress-bars-1-0-standalone/526287
 
 # Installation
